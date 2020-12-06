@@ -1,0 +1,12 @@
+# jarvis
+my voice assistant using python
+
+these are the requirements
+os
+pyttsx3
+datetime
+wikipedia
+speech_recognition
+webbrowser
+
+please add your path so that it can work
