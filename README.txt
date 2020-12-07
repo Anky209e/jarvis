@@ -25,3 +25,5 @@ for closing down use 'good bye' or 'stop'
 
 
 #credits:- Anky(DG)
+insta Anky :-  https://www.instagram.com/anky209e/
+discord:- https://discord.gg/EH2BRtTtDZ
