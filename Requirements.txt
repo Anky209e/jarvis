@@ -8,5 +8,10 @@ datetime
 wikipedia
 speech_recognition
 webbrowser
+json
+ctypes
+subprocess
+pyjokes
+time
 
 please add your path so that it can work
