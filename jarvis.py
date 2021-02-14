@@ -43,6 +43,7 @@ def takecommand():
         print("Listening........>>>>")
         r.pause_threshold = 1
         r.energy_threshold = 500
+        r.adjust_for_ambient_noise(source)
         audio = r.listen(source)
     try:
         print("Recognising..")
