@@ -26,4 +26,4 @@ for closing down use 'good bye' or 'stop'
 
 #credits:- Anky(DG)
 
-discord:- https://discord.gg/EH2BRtTtDZ
+discord:- AnKy#4235
