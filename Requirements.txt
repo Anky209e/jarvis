@@ -1,7 +1,4 @@
-# jarvis
-my voice assistant using python
 
-these are the requirements
 os
 pyttsx3
 datetime
@@ -14,4 +11,4 @@ subprocess
 pyjokes
 time
 
-please add your path so that it can work
+
